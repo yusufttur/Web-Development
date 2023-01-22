@@ -2,7 +2,7 @@
 * This project is a simple web development project that uses **Git**, **HTML**, **CSS**, **Bootstrap**, and **JavaScript** to create a responsive and interactive website.
 
 ## Getting Started
-* Clone the repository: git clone https://github.com/yusufttur/web-development-learning-project.git
+* Clone the repository: git clone https://github.com/yusufttur/web-development.git
 * Open the project in your preferred text editor.
 * Use Git to track your changes and push your code to GitHub.
 
