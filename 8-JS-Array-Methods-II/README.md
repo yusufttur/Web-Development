@@ -37,7 +37,7 @@ const atLeastOneNumberIsGreaterThanThree = numbers.some((number) => number > 3);
 console.log(atLeastOneNumberIsGreaterThanThree); // true
 ```
 ## sort()
-* The `sort()` method sorts the elements of an array in place and returns the sorted array.
+The `sort()` method sorts the elements of an array in place and returns the sorted array.
 ```
 const fruits = ["apple", "banana", "cherry"];
 fruits.sort();
@@ -64,7 +64,7 @@ const numbers = [1, 2, 3, 4, 5];
 const squareNumbers = numbers.map(num => num * num);
 console.log(squareNumbers); // [1, 4, 9, 16, 25]
 ```
-In the above example, we use map() to create a new array with the squared values of each element in `numbers`.
+* In the above example, we use map() to create a new array with the squared values of each element in `numbers`.
 
 ## reduce()
 * `reduce()` is a method that applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value. The original array is not modified.
@@ -80,7 +80,7 @@ const numbers = [1, 2, 3, 4, 5];
 const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentValue);
 console.log(sum); // 15
 ```
-In the above example, we use `reduce()` to calculate the sum of all elements in `numbers`.
+* In the above example, we use `reduce()` to calculate the sum of all elements in `numbers`.
 
 ## reduce() in Groups
 
