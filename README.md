@@ -19,7 +19,7 @@
 * Use of Bootstrap classes for easy styling.
 
 ## Contributions
-We welcome contributions to this project! If you have an idea for a new feature or have found a bug, please open an issue on the repository.
+I welcome contributions to this project! If you have an idea for a new feature or have found a bug, please open an issue on the repository.
 
 ## Authors
 * [**Yusuf Tür**](https://github.com/yusufttur)
