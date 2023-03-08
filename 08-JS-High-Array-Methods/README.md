@@ -1,4 +1,4 @@
-# JavaScript Array Methods
+# JavaScript High Array Methods
 
 This repository is a collection of examples for JavaScript array methods such as filter, find, findIndex, every, some, sort, includes, map, reduce, and reduce in groups.
 ## filter()
