@@ -43,8 +43,8 @@ performAsyncTask()
 
 In this example, the `performAsyncTask` function returns a promise that will be resolved after 2 seconds. The `.then()` method is called when the promise is resolved, and the `.catch()` method is called if the promise is rejected. When you run this code, you should see the following output:
 
-```Async task completed
-
+```
+Async task completed
 ```
 
 ## Async/Await
@@ -73,8 +73,8 @@ run();
 
 In this example, the `performAsyncTask` function returns a promise just like in the previous example, but this time we use the `async` keyword to mark the function as asynchronous. We then use the `await` keyword to wait for the promise to be resolved before continuing with the rest of the code. When you run this code, you should see the following output:
 
-```Async task completed
-
+```
+Async task completed
 ```
 
 ## Fetch
