@@ -1,0 +1,12 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "npx jest"
+  },
+  "author": "Yusuf Tür",
+  "license": "ISC"
+}

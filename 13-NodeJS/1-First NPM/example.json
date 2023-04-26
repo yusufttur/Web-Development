@@ -1,0 +1,14 @@
+{
+    "name": "John",
+    "age": "34",
+    "graduate": false,
+    "subjects": [
+        "Math",
+        "English"
+    ],
+    "address": {
+        "street": "123st",
+        "number": 12,
+        "city": "LA"
+    }
+}
